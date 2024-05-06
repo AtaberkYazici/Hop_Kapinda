@@ -1,0 +1,1 @@
+Hop Kapında bir yemek sipariş etme uygulaması olarak tasarlanmıştır. Expo kullanılarak ayağa kaldırılması gerekmektedir. Backendin çalıştırılabilmesi için öncelikle Hop_Kapinda_Backend çalıştırılması gerekmektedir.
